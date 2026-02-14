@@ -118,7 +118,7 @@ export default function ContactPage() {
             {/* Contact Form */}
             <div className="space-y-8">
               <div>
-                <h2 className="text-3xl font-bold text-foreground mb-4">Send Us a Message 📝</h2>
+                <h2 className="text-3xl font-bold text-foreground mb-4">Say Something to us..</h2>
                 <p className="text-muted-foreground leading-relaxed">
                   Fill out the form below and we'll get back to you as soon as possible. 
                   For urgent matters, please call us directly.
