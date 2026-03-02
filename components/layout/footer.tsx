@@ -17,8 +17,8 @@ export default function Footer() {
               <span className="text-2xl font-bold">KidGuides</span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              Empowering kids aged 0-7 with personalized offline learning through passionate college mentors. 
-              Building strong foundations for lifelong success! 🌟
+              Empowering kids from class Nursery to 7 with personalized offline learning through passionate college mentors. 
+              Building strong foundations for lifelong success! 
             </p>
             <div className="flex space-x-4">
               <a 
