@@ -242,7 +242,7 @@ export default function GuidesPage() {
         ) : (
           <Card>
             <CardContent className="pt-12 text-center">
-              <p className="text-gray-600 mb-4">No guides added yet</p>
+              <p className="text-gray-600 mb-4">No Teacher's are there added yet</p>
               <Dialog open={isOpen} onOpenChange={setIsOpen}>
                 <DialogTrigger asChild>
                   <Button>
