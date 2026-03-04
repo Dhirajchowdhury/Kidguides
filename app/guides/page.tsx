@@ -247,7 +247,7 @@ export default function GuidesPage() {
                 <DialogTrigger asChild>
                   <Button>
                     <Plus className="w-4 h-4 mr-2" />
-                    Add Your First Guide
+                    Add Your First Tutor
                   </Button>
                 </DialogTrigger>
                 <DialogContent>
