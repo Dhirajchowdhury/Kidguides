@@ -18,7 +18,7 @@ export default function Footer() {
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
               Empowering kids from class Nursery to 7 with personalized offline learning through passionate college mentors. 
-              Building strong foundations for lifelong success! 
+             believe in building strong foundations for lifelong success! 
             </p>
             <div className="flex space-x-4">
               <a 
